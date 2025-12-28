@@ -2,7 +2,7 @@
 My name is Sam Goldfield.
 
 ## Work
-I work on frontier technologies at [Galileo](https://galileo.ai/).
+I work on distributing AI guardrails at [Galileo](https://galileo.ai/).
 
 ## Contact
 hello@samgdf.com
