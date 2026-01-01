@@ -1,8 +1,7 @@
-## Hi
-My name is Sam Goldfield.
+## Hi, my name is Sam Goldfield.
 
-## Work
+### Work
 I work on distributing AI guardrails at [Galileo](https://galileo.ai/).
 
-## Contact
+### Contact
 hello@samgdf.com
