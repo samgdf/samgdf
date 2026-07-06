@@ -1,7 +1,7 @@
 ## Hi, my name is Sam Goldfield.
 
 ### Work
-I work on AI agents, evals, and guardrails at [Cisco](https://www.cisco.com/site/us/en/index.html).
+I work on AI agents, evals, and guardrails at [Splunk, a Cisco company](https://www.splunk.com/).
 
 ### Contact
 hello@samgdf.com
